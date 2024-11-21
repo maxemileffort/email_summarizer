@@ -6,6 +6,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 .env
+logins.txt
 
 # Distribution / packaging
 build/
